@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/838-loggr-
 x-kinRank: "8"
 x-alexaRank: "5329714"
 tags: Target
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/target/master/_listings/loggr-net/apis.md
 specificationVersion: "0.14"
 apis: []

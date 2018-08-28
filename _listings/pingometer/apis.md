@@ -7,11 +7,22 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18847-ping
 x-kinRank: "8"
 x-alexaRank: "1995680"
 tags: Target
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/target/master/_listings/pingometer/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Alerts API - Alerts Targets
+  x-api-slug: alertstargets-get
+  description: Gets a list of all alert targets that are visible to you as a customer.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18847-pingometer.jpg
+  humanURL: https://pingometer.com/
+  baseURL: ://api.serverdensity.io./
+  tags: Monitoring, Performance, Stack Network, SaaS, Technology, internet, Relative
+    Data, Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/target/master/_listings/pingometer/alertstargets-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://pingdom.api.gallery.streamdata.io

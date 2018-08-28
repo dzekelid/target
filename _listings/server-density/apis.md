@@ -7,11 +7,21 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/475-server
 x-kinRank: "7"
 x-alexaRank: "209719"
 tags: Target
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/target/master/_listings/server-density/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Alerts API - Alerts Targets
+  x-api-slug: alertstargets-get
+  description: Gets a list of all alert targets that are visible to you as a customer.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/475-server-density.jpg
+  humanURL: https://www.serverdensity.com
+  baseURL: ://api.serverdensity.io./
+  tags: Monitoring, API United Kingdom, SaaS, Technology, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/target/master/_listings/server-density/alertstargets-get-openapi.md
 x-common:
 - type: x-website
   url: https://www.serverdensity.com

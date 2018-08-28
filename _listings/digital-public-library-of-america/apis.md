@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1697-digit
 x-kinRank: "10"
 x-alexaRank: "145322"
 tags: Target
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/target/master/_listings/digital-public-library-of-america/apis.md
 specificationVersion: "0.14"
 apis: []
